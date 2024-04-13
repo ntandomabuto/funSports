@@ -75,8 +75,12 @@ git add .
 git commit -m "second commit" 
 git push (error...)
 git pull
+git add .
+git commit -m "second commit"
+git push
 
 13. Now change to the thirdBranch.
+
 14. Now add new Sport to the Sports in the text file,
     3) Baseball
     4) Soccer
